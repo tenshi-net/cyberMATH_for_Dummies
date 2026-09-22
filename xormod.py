@@ -1,8 +1,8 @@
-# XORmod for Dummies
+# XORmod (part of the CYBERMATH FOR DUMMIES projecT)
 # Copyright (c) 2026 Jacob F. 
 # Licensed under the MIT License
-# Repository: https://github.com/tenshi-net/xormod-for-dummies
-# This script is a very barebones calculator intended for calculating XOR and modulo operations within the command line.
+# Repository: https://github.com/tenshi-net/cyberMATH_for_Dummies
+# This script is a barebones calculator intended for calculating XOR and modulo operations within the command line.
 
 print("\nRunning XORmod for Dummies...")
 
